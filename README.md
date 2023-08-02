@@ -9,12 +9,6 @@ I hold a Bachelor's degree in Information Technology from Southern Cross Univers
 
 Proficient in CSS3, HTML5, and JavaScript, I have extensive experience in front-end development. I am well-versed in JavaScript frameworks such as React JS, AngularJS, and Ember, allowing me to build dynamic and interactive web applications. I have the ability to integrate front-end designs with RESTful APIs, ensuring seamless functionality.
 
-In my previous roles, such as a Kitchen Crew member at McDonald's and a Store Person at Team Effort, I honed my attention to detail, multitasking abilities, and work-life balance.
-
-I am continuously curious and open-minded, always seeking to learn new skills to stay ahead in the rapidly evolving field of front-end development. My basic understanding of SEO principles further complements my skill set.
-
-If you require further information or references, please feel free to contact me at nick-whiteley@hotmail.com or reach me by phone at 0423716964.
-
   <h2 align="center">Let's Connect</h2>
   <p align="center">
     <a
