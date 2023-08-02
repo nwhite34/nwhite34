@@ -23,14 +23,14 @@ If you require further information or references, please feel free to contact me
       >
       </a>
     <a
-      href="[https://www.linkedin.com/in/austinrt](https://www.linkedin.com/in/nick-whiteley-1a413a27b/)/"
+      href="[https://www.linkedin.com/in/nick-whiteley-1a413a27b/)/]"
       target="_blank"
       ><img
         src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square"
         alt="LinkedIn Badge"
     /></a>
     <a
-      href="https://www.github.com/austin-rt/"
+      href="https://www.github.com/nwhite34/"
       target="_blank"
       ><img
         src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"
