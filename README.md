@@ -5,9 +5,8 @@
  
 A highly motivated and skilled front-end developer with a passion for creating user-friendly and high-performing websites. 
 
-I hold a Bachelor's degree in Information Technology from Southern Cross University, where I graduated in 2023. Additionally, I have obtained a certificate in the Front-End Developer Career Path from Scrimba.com. My educational background has provided me with a strong foundation in computer systems and software tools.
 
-Proficient in CSS3, HTML5, and JavaScript, I have extensive experience in front-end development. I am well-versed in JavaScript frameworks such as React JS, AngularJS, and Ember, allowing me to build dynamic and interactive web applications. I have the ability to integrate front-end designs with RESTful APIs, ensuring seamless functionality.
+Proficient in CSS3, HTML5, and JavaScript, I have extensive experience in front-end development. I am well-versed in JavaScript frameworks such as React JS, and AngularJS, allowing me to build dynamic and interactive web applications. I have the ability to integrate front-end designs with RESTful APIs, ensuring seamless functionality.
 
   <h2 align="center">Let's Connect</h2>
   <p align="center">
