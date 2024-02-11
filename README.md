@@ -3,10 +3,10 @@
 
   <h1 align="center">Hey, I'm <a href="https://www.nickwhiteley.net" target="_blank">Nick</a>!</h1>
  
-A highly motivated and skilled front-end developer with a passion for creating user-friendly and high-performing websites. 
+A highly motivated front-end developer with a passion for creating user-friendly and high-performing websites. 
 
 
-Proficient in CSS3, HTML5, and JavaScript, I have extensive experience in front-end development. I am well-versed in JavaScript frameworks such as React JS, and AngularJS, allowing me to build dynamic and interactive web applications. I have the ability to integrate front-end designs with RESTful APIs, ensuring seamless functionality.
+Proficient in CSS3, HTML5, and JavaScript, I have extensive experience in front-end development. I am well-versed in JavaScript frameworks such as React JS, and Vue JS, allowing me to build dynamic and interactive web applications. I have the ability to integrate front-end designs with RESTful APIs, ensuring seamless functionality.
 
   <h2 align="center">Let's Connect</h2>
   <p align="center">
