@@ -41,11 +41,7 @@ Proficient in CSS3, HTML5, and JavaScript, I have extensive experience in front-
             src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square"
             alt="JavaScript Badge"
           />
-       <img
-            src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square"
-            alt="TypeScript Badge"
-          />
-      
+    
 
 
 
