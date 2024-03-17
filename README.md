@@ -7,11 +7,15 @@ I am a freelance frontend developer and web designer.
 
 My go to tech-stack:
 
-<li> React/Vue </li>
+<li> React </li>
+<li> Vue </li>
+<li> Next JS </li>
 <li> Express JS </li>
 <li> MongoDB </li>
+<li> Firebase </li>
 <li> TailwindCSS </li>
-<li> Figma/Canva </li>
+<li> Figma </li>
+<li> Canva </li>
 
   <h2 align="center">Let's Connect</h2>
   <p align="center">
