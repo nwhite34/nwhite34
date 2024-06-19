@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey, I'm <a href="https://www.nickwhiteley.net" target="_blank">Nick</a>!</h1>
  
-I am a freelance frontend developer and web designer.
+I am a freelance front-end developer and web designer.
 
 My go to tech-stack:
 
@@ -32,7 +32,8 @@ My go to tech-stack:
     <a
       href="https://www.github.com/nwhite34/"
       target="_blank"
-      ><img
+      > </a>
+    <img
         src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"
         alt="GitHub Badge"
     /></a>
