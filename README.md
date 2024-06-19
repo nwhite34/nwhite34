@@ -7,11 +7,9 @@ I am a freelance frontend developer and web designer.
 
 My go to tech-stack:
 
+<li> JavaScript </li>
 <li> React </li>
-<li> Vue </li>
-<li> Next JS </li>
-<li> Express JS </li>
-<li> MongoDB </li>
+<li> Node </li>
 <li> Firebase </li>
 <li> TailwindCSS </li>
 <li> Figma </li>
